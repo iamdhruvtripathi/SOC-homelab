@@ -1,3 +1,4 @@
+# 🚧 WORK IN PROGRESS 🚧
 # SOC Homelab
 
 A hands-on Security Operations Center (SOC) homelab built using Wazuh, Sysmon and an Active Directory environment to simulate enterprise security monitoring. The lab focuses on centralized log collection, endpoint visibility, event correlation, and threat detection through the Wazuh Dashboard
